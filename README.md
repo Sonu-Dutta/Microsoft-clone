@@ -6,19 +6,10 @@ It Consists of Home page of Microsoft.
 #### This page is fully made up of Tailwind-css along with media-queries!
 
 ![](./design/home.png)
-
 ![](./design/first.png)
-
 ![](./design/second.png)
-
 ![](./design/third.png)
-
 ![](./design/footer.png)
-
-### Links
-
-- Solution URL: (https://github.com/Sonu-Dutta/Facebook-Clone)
-- Live Site URL: (https://facebook-clone-flax.vercel.app/)
 
 ## My process
 
